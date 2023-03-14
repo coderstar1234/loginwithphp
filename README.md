@@ -4,7 +4,9 @@
 - This is a simple login system created using PHP and MySQL. It allows users to register, login, and logout. Once logged in, users can access a secure page that only authenticated users can see.
 <hr>
 <h1 align="center" >Redme</h1>
-<p align="center" >Some work for a php and mysql that writen in html,css,and js.
+<p align="center" >
+  
+  - Some work for a php and mysql that writen in html,css,and js.
 The work to new skill at a php,mysql and bootstrap.</p>
 <hr>
 
@@ -30,8 +32,8 @@ SQL</h1><hr>
 - define('DB_PASS', '');<br>
 - define('DB_NAME', 'your-database-name');
 <br><hr></p>
-Upload the files to your web server.
-<br>
+- Upload the files to your web server.
+
 - Visit the login page (login.php) to login or register.
 <br><hr>
 <h1 align="center" >Files Included</h1>
