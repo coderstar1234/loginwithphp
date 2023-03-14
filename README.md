@@ -1,10 +1,10 @@
-<h1 align="center" > loginwithphp</h1>
-<p align="center" >Some work for a php and mysql that writen in html,css,and js.</p>
+
 <h1 align="center" >PHP Login System</h1>
 This is a simple login system created using PHP and MySQL. It allows users to register, login, and logout. Once logged in, users can access a secure page that only authenticated users can see.
 
 <h1 align="center" >Redme</h1>
-The work to new skill at a php,mysql and bootstrap.
+<p align="center" >Some work for a php and mysql that writen in html,css,and js.
+The work to new skill at a php,mysql and bootstrap.</p>
 
 
 
