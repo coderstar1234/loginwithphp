@@ -10,8 +10,8 @@ The work to new skill at a php,mysql and bootstrap.
 
 <h1 align="center" >How to Use</h1>
 
-Clone the repository:
-bash
+Clone the repository:<br>
+bash<br>
 <h1 align="left" >Copy code</h1>
 git clone https://github.com/your-username/login-system.git
 Create a new database in MySQL and import the database.sql file located in the sql directory.
@@ -19,25 +19,25 @@ Create a new database in MySQL and import the database.sql file located in the s
 Open the config.php file located in the includes directory and update the database connection details:
 
 <h1 align="center" >sql</h1>
-Copy code
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'your-database-name');
+<h2 align="center" >Copy code</h2><br>
+define('DB_HOST', 'localhost');<br>
+define('DB_USER', 'root');<br>
+define('DB_PASS', '');<br>
+define('DB_NAME', 'your-database-name');<br>
 Upload the files to your web server.
-
+<br>
 Visit the login page (login.php) to login or register.
-
+<br>
 <h1 align="center" >Files Included</h1>
 
-index.php: The landing page for the application.
-login.php: The login page.
-register.php: The registration page.
-secure.php: The secure page that only authenticated users can access.
-includes/config.php: The configuration file that contains the database connection details.
-includes/db.php: The database class that handles all database queries.
-includes/functions.php: Helper functions used throughout the application.
-sql/database.sql: The SQL file used to create the necessary tables in MySQL.
+index.php: The landing page for the application.<br>
+login.php: The login page.<br>
+register.php: The registration page.<br>
+secure.php: The secure page that only authenticated users can access.<br>
+includes/config.php: The configuration file that contains the database connection details.<br>
+includes/db.php: The database class that handles all database queries.<br>
+includes/functions.php: Helper functions used throughout the application.<br>
+sql/database.sql: The SQL file used to create the necessary tables in MySQL.<br>
 Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. Please ensure that your code adheres to the PSR-2 coding standards.
