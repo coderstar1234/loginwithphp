@@ -8,17 +8,17 @@ The work to new skill at a php,mysql and bootstrap.
 
 
 
-How to Use
+<h1 align="center" >How to Use</h1>
 
 Clone the repository:
 bash
-Copy code
+<h1 align="left" >Copy code</h1>
 git clone https://github.com/your-username/login-system.git
 Create a new database in MySQL and import the database.sql file located in the sql directory.
 
 Open the config.php file located in the includes directory and update the database connection details:
 
-sql
+<h1 align="center" >sql</h1>
 Copy code
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
@@ -28,7 +28,7 @@ Upload the files to your web server.
 
 Visit the login page (login.php) to login or register.
 
-Files Included
+<h1 align="center" >Files Included</h1>
 
 index.php: The landing page for the application.
 login.php: The login page.
@@ -42,6 +42,6 @@ Contributing
 
 If you'd like to contribute to this project, feel free to submit a pull request. Please ensure that your code adheres to the PSR-2 coding standards.
 
-License
+<h1 align="center" >License</h1>
 
 This project is licensed under the MIT License.
