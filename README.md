@@ -3,7 +3,7 @@
 
 - This is a simple login system created using PHP and MySQL. It allows users to register, login, and logout. Once logged in, users can access a secure page that only authenticated users can see.
 <hr>
-<h1 align="center" >Redme</h1>
+<h1 align="center" >Redme:</h1>
 <p align="center" >
   
   - Some work for a php and mysql that writen in html,css,and js.
