@@ -24,7 +24,7 @@ The work to new skill at a php,mysql and bootstrap.</p>
 <h1 align="center" >
 SQL</h1><hr>
 <p align="center">
-<h2 align="center" >Copy code</h2><br>
+<h2 align="center" >Copy code:-</h2><br>
 
 
 - define('DB_HOST', 'localhost');<br>
