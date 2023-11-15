@@ -50,7 +50,7 @@ SQL</h1><hr>
 
 If you'd like to contribute to this project, feel free to submit a pull request. Please ensure that your code adheres to the PSR-2 coding standards.
 <hr>
-<h1 align="center" >License:</h1>
+<h1 align="center" >License:-</h1>
 
 - This project is licensed under the MIT License.
 <hr>
