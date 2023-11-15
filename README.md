@@ -1,6 +1,7 @@
 
 <h1 align="center" >PHP Login System:-</h1>
 
+
 - This is a simple login system created using PHP and MySQL. It allows users to register, login, and logout. Once logged in, users can access a secure page that only authenticated users can see.
 <hr>
 <h1 align="center" >Redme:-</h1>
