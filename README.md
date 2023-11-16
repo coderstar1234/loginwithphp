@@ -16,7 +16,7 @@ The work to new skill at a php,mysql and bootstrap.</p>
 
 - Clone the repository:<br>
 - bash<br>
-<h1 align="left" >Copy code</h1>
+<h1 align="left" >Copy code:-</h1>
 
 - git clone https://github.com/your-username/login-system.git
 - Create a new database in MySQL and import the database.sql file located in the sql directory.
