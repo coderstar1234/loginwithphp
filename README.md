@@ -37,7 +37,7 @@ SQL</h1><hr>
 
 - Visit the login page (login.php) to login or register.
 <br><hr>
-<h1 align="center" >Files Included:</h1>
+<h1 align="center" >Files Included:-</h1>
 
 - index.php: The landing page for the application.<br>
 - login.php: The login page.<br>
