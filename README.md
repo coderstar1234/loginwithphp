@@ -14,7 +14,7 @@ The work to new skill at a php,mysql and bootstrap.</p>
 
 <h1 align="center" >How to Use:-</h1>
 
-- Clone the repository<br>
+- Clone the repository
 - bash<br>
 <h1 align="left" >Copy code:-</h1>
 
