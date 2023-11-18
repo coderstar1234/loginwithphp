@@ -15,7 +15,7 @@ The work to new skill at a php,mysql and bootstrap.</p>
 <h1 align="center" >How to Use:-</h1>
 
 - Clone the repository
-- bash<br>
+- bash
 <h1 align="left" >Copy code:-</h1>
 
 - git clone https://github.com/your-username/login-system.git
