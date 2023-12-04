@@ -23,7 +23,7 @@ The work to new skill at a php,mysql and bootstrap.</p>
 - Open the config.php file located in the includes directory and update the database connection details:
 <hr>
 <h1 align="center" >
-SQL:</h1><hr>
+SQL:-</h1><hr>
 <p align="center">
 <h2 align="center" >Copy code:-</h2><br>
 
